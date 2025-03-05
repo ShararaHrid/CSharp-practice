@@ -1,0 +1,14 @@
+E:\Csharp practice\Sort Insertion\Sort Insertion\bin\Debug\net8.0\Sort Insertion.exe
+E:\Csharp practice\Sort Insertion\Sort Insertion\bin\Debug\net8.0\Sort Insertion.deps.json
+E:\Csharp practice\Sort Insertion\Sort Insertion\bin\Debug\net8.0\Sort Insertion.runtimeconfig.json
+E:\Csharp practice\Sort Insertion\Sort Insertion\bin\Debug\net8.0\Sort Insertion.dll
+E:\Csharp practice\Sort Insertion\Sort Insertion\bin\Debug\net8.0\Sort Insertion.pdb
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\Sort Insertion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\Sort Insertion.AssemblyInfoInputs.cache
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\Sort Insertion.AssemblyInfo.cs
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\Sort Insertion.csproj.CoreCompileInputs.cache
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\Sort Insertion.dll
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\refint\Sort Insertion.dll
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\Sort Insertion.pdb
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\Sort Insertion.genruntimeconfig.cache
+E:\Csharp practice\Sort Insertion\Sort Insertion\obj\Debug\net8.0\ref\Sort Insertion.dll

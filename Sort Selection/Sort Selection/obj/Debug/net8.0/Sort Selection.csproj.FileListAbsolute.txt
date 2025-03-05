@@ -1,0 +1,14 @@
+E:\Csharp practice\Sort Selection\Sort Selection\bin\Debug\net8.0\Sort Selection.exe
+E:\Csharp practice\Sort Selection\Sort Selection\bin\Debug\net8.0\Sort Selection.deps.json
+E:\Csharp practice\Sort Selection\Sort Selection\bin\Debug\net8.0\Sort Selection.runtimeconfig.json
+E:\Csharp practice\Sort Selection\Sort Selection\bin\Debug\net8.0\Sort Selection.dll
+E:\Csharp practice\Sort Selection\Sort Selection\bin\Debug\net8.0\Sort Selection.pdb
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\Sort Selection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\Sort Selection.AssemblyInfoInputs.cache
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\Sort Selection.AssemblyInfo.cs
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\Sort Selection.csproj.CoreCompileInputs.cache
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\Sort Selection.dll
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\refint\Sort Selection.dll
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\Sort Selection.pdb
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\Sort Selection.genruntimeconfig.cache
+E:\Csharp practice\Sort Selection\Sort Selection\obj\Debug\net8.0\ref\Sort Selection.dll

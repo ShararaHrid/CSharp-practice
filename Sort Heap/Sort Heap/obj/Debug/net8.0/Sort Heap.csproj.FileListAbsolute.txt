@@ -1,0 +1,14 @@
+E:\Csharp practice\Sort Heap\Sort Heap\bin\Debug\net8.0\Sort Heap.exe
+E:\Csharp practice\Sort Heap\Sort Heap\bin\Debug\net8.0\Sort Heap.deps.json
+E:\Csharp practice\Sort Heap\Sort Heap\bin\Debug\net8.0\Sort Heap.runtimeconfig.json
+E:\Csharp practice\Sort Heap\Sort Heap\bin\Debug\net8.0\Sort Heap.dll
+E:\Csharp practice\Sort Heap\Sort Heap\bin\Debug\net8.0\Sort Heap.pdb
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\Sort Heap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\Sort Heap.AssemblyInfoInputs.cache
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\Sort Heap.AssemblyInfo.cs
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\Sort Heap.csproj.CoreCompileInputs.cache
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\Sort Heap.dll
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\refint\Sort Heap.dll
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\Sort Heap.pdb
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\Sort Heap.genruntimeconfig.cache
+E:\Csharp practice\Sort Heap\Sort Heap\obj\Debug\net8.0\ref\Sort Heap.dll

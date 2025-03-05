@@ -1,0 +1,14 @@
+E:\Csharp practice\Sort Merge\Sort Merge\bin\Debug\net8.0\Sort Merge.exe
+E:\Csharp practice\Sort Merge\Sort Merge\bin\Debug\net8.0\Sort Merge.deps.json
+E:\Csharp practice\Sort Merge\Sort Merge\bin\Debug\net8.0\Sort Merge.runtimeconfig.json
+E:\Csharp practice\Sort Merge\Sort Merge\bin\Debug\net8.0\Sort Merge.dll
+E:\Csharp practice\Sort Merge\Sort Merge\bin\Debug\net8.0\Sort Merge.pdb
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\Sort Merge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\Sort Merge.AssemblyInfoInputs.cache
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\Sort Merge.AssemblyInfo.cs
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\Sort Merge.csproj.CoreCompileInputs.cache
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\Sort Merge.dll
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\refint\Sort Merge.dll
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\Sort Merge.pdb
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\Sort Merge.genruntimeconfig.cache
+E:\Csharp practice\Sort Merge\Sort Merge\obj\Debug\net8.0\ref\Sort Merge.dll

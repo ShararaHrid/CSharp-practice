@@ -1,0 +1,14 @@
+E:\Csharp practice\Sort Quick\Sort Quick\bin\Debug\net8.0\Sort Quick.exe
+E:\Csharp practice\Sort Quick\Sort Quick\bin\Debug\net8.0\Sort Quick.deps.json
+E:\Csharp practice\Sort Quick\Sort Quick\bin\Debug\net8.0\Sort Quick.runtimeconfig.json
+E:\Csharp practice\Sort Quick\Sort Quick\bin\Debug\net8.0\Sort Quick.dll
+E:\Csharp practice\Sort Quick\Sort Quick\bin\Debug\net8.0\Sort Quick.pdb
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\Sort Quick.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\Sort Quick.AssemblyInfoInputs.cache
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\Sort Quick.AssemblyInfo.cs
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\Sort Quick.csproj.CoreCompileInputs.cache
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\Sort Quick.dll
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\refint\Sort Quick.dll
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\Sort Quick.pdb
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\Sort Quick.genruntimeconfig.cache
+E:\Csharp practice\Sort Quick\Sort Quick\obj\Debug\net8.0\ref\Sort Quick.dll
