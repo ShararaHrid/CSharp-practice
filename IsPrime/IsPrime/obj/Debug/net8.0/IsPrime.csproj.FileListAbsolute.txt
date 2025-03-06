@@ -1,0 +1,14 @@
+E:\Csharp practice\IsPrime\IsPrime\bin\Debug\net8.0\IsPrime.exe
+E:\Csharp practice\IsPrime\IsPrime\bin\Debug\net8.0\IsPrime.deps.json
+E:\Csharp practice\IsPrime\IsPrime\bin\Debug\net8.0\IsPrime.runtimeconfig.json
+E:\Csharp practice\IsPrime\IsPrime\bin\Debug\net8.0\IsPrime.dll
+E:\Csharp practice\IsPrime\IsPrime\bin\Debug\net8.0\IsPrime.pdb
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\IsPrime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\IsPrime.AssemblyInfoInputs.cache
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\IsPrime.AssemblyInfo.cs
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\IsPrime.csproj.CoreCompileInputs.cache
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\IsPrime.dll
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\refint\IsPrime.dll
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\IsPrime.pdb
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\IsPrime.genruntimeconfig.cache
+E:\Csharp practice\IsPrime\IsPrime\obj\Debug\net8.0\ref\IsPrime.dll

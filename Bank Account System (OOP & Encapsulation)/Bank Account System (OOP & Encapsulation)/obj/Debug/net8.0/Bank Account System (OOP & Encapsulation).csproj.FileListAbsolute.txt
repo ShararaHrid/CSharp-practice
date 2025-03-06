@@ -1,0 +1,15 @@
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\bin\Debug\net8.0\Bank Account System (OOP & Encapsulation).exe
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\bin\Debug\net8.0\Bank Account System (OOP & Encapsulation).deps.json
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\bin\Debug\net8.0\Bank Account System (OOP & Encapsulation).runtimeconfig.json
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\bin\Debug\net8.0\Bank Account System (OOP & Encapsulation).dll
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\bin\Debug\net8.0\Bank Account System (OOP & Encapsulation).pdb
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).AssemblyInfoInputs.cache
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).AssemblyInfo.cs
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).csproj.CoreCompileInputs.cache
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).sourcelink.json
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).dll
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\refint\Bank Account System (OOP & Encapsulation).dll
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).pdb
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\Bank Account System (OOP & Encapsulation).genruntimeconfig.cache
+E:\C# practice\Bank Account System (OOP & Encapsulation)\Bank Account System (OOP & Encapsulation)\obj\Debug\net8.0\ref\Bank Account System (OOP & Encapsulation).dll

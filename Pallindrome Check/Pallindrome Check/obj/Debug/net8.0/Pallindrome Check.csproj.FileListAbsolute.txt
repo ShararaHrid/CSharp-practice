@@ -1,0 +1,15 @@
+E:\C# practice\Pallindrome Check\Pallindrome Check\bin\Debug\net8.0\Pallindrome Check.exe
+E:\C# practice\Pallindrome Check\Pallindrome Check\bin\Debug\net8.0\Pallindrome Check.deps.json
+E:\C# practice\Pallindrome Check\Pallindrome Check\bin\Debug\net8.0\Pallindrome Check.runtimeconfig.json
+E:\C# practice\Pallindrome Check\Pallindrome Check\bin\Debug\net8.0\Pallindrome Check.dll
+E:\C# practice\Pallindrome Check\Pallindrome Check\bin\Debug\net8.0\Pallindrome Check.pdb
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.AssemblyInfoInputs.cache
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.AssemblyInfo.cs
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.csproj.CoreCompileInputs.cache
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.sourcelink.json
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.dll
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\refint\Pallindrome Check.dll
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.pdb
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\Pallindrome Check.genruntimeconfig.cache
+E:\C# practice\Pallindrome Check\Pallindrome Check\obj\Debug\net8.0\ref\Pallindrome Check.dll

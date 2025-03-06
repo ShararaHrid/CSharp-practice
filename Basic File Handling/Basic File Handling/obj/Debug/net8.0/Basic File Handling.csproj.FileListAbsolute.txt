@@ -1,0 +1,15 @@
+E:\C# practice\Basic File Handling\Basic File Handling\bin\Debug\net8.0\Basic File Handling.exe
+E:\C# practice\Basic File Handling\Basic File Handling\bin\Debug\net8.0\Basic File Handling.deps.json
+E:\C# practice\Basic File Handling\Basic File Handling\bin\Debug\net8.0\Basic File Handling.runtimeconfig.json
+E:\C# practice\Basic File Handling\Basic File Handling\bin\Debug\net8.0\Basic File Handling.dll
+E:\C# practice\Basic File Handling\Basic File Handling\bin\Debug\net8.0\Basic File Handling.pdb
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.AssemblyInfoInputs.cache
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.AssemblyInfo.cs
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.csproj.CoreCompileInputs.cache
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.sourcelink.json
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.dll
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\refint\Basic File Handling.dll
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.pdb
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\Basic File Handling.genruntimeconfig.cache
+E:\C# practice\Basic File Handling\Basic File Handling\obj\Debug\net8.0\ref\Basic File Handling.dll

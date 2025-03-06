@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# practice\\Bank Account System (OOP \u0026 Encapsulation)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B9E925-4FC6-4BD9-959B-89AFE2CD6CB9}|Bank Account System (OOP \u0026 Encapsulation)\\Bank Account System (OOP \u0026 Encapsulation).csproj|e:\\c# practice\\bank account system (oop \u0026 encapsulation)\\bank account system (oop \u0026 encapsulation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B9E925-4FC6-4BD9-959B-89AFE2CD6CB9}|Bank Account System (OOP \u0026 Encapsulation)\\Bank Account System (OOP \u0026 Encapsulation).csproj|solutionrelative:bank account system (oop \u0026 encapsulation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# practice\\Bank Account System (OOP \u0026 Encapsulation)\\Bank Account System (OOP \u0026 Encapsulation)\\Program.cs",
+              "RelativeDocumentMoniker": "Bank Account System (OOP \u0026 Encapsulation)\\Program.cs",
+              "ToolTip": "E:\\C# practice\\Bank Account System (OOP \u0026 Encapsulation)\\Bank Account System (OOP \u0026 Encapsulation)\\Program.cs",
+              "RelativeToolTip": "Bank Account System (OOP \u0026 Encapsulation)\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:28:12.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

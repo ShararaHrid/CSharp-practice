@@ -1,0 +1,15 @@
+E:\C# practice\String Reverse\String Reverse\bin\Debug\net8.0\String Reverse.exe
+E:\C# practice\String Reverse\String Reverse\bin\Debug\net8.0\String Reverse.deps.json
+E:\C# practice\String Reverse\String Reverse\bin\Debug\net8.0\String Reverse.runtimeconfig.json
+E:\C# practice\String Reverse\String Reverse\bin\Debug\net8.0\String Reverse.dll
+E:\C# practice\String Reverse\String Reverse\bin\Debug\net8.0\String Reverse.pdb
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.AssemblyInfoInputs.cache
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.AssemblyInfo.cs
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.csproj.CoreCompileInputs.cache
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.sourcelink.json
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.dll
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\refint\String Reverse.dll
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.pdb
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\String Reverse.genruntimeconfig.cache
+E:\C# practice\String Reverse\String Reverse\obj\Debug\net8.0\ref\String Reverse.dll

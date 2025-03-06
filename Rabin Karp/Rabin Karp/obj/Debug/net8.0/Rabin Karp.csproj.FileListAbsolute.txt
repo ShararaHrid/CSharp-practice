@@ -1,0 +1,15 @@
+E:\C# practice\Rabin Karp\Rabin Karp\bin\Debug\net8.0\Rabin Karp.exe
+E:\C# practice\Rabin Karp\Rabin Karp\bin\Debug\net8.0\Rabin Karp.deps.json
+E:\C# practice\Rabin Karp\Rabin Karp\bin\Debug\net8.0\Rabin Karp.runtimeconfig.json
+E:\C# practice\Rabin Karp\Rabin Karp\bin\Debug\net8.0\Rabin Karp.dll
+E:\C# practice\Rabin Karp\Rabin Karp\bin\Debug\net8.0\Rabin Karp.pdb
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.AssemblyInfoInputs.cache
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.AssemblyInfo.cs
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.csproj.CoreCompileInputs.cache
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.sourcelink.json
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.dll
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\refint\Rabin Karp.dll
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.pdb
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\Rabin Karp.genruntimeconfig.cache
+E:\C# practice\Rabin Karp\Rabin Karp\obj\Debug\net8.0\ref\Rabin Karp.dll

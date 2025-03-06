@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# practice\\String Reverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B25DEE38-108E-4EF7-8F06-1E599FA483E7}|String Reverse\\String Reverse.csproj|e:\\c# practice\\string reverse\\string reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DEE38-108E-4EF7-8F06-1E599FA483E7}|String Reverse\\String Reverse.csproj|solutionrelative:string reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# practice\\String Reverse\\String Reverse\\Program.cs",
+              "RelativeDocumentMoniker": "String Reverse\\Program.cs",
+              "ToolTip": "E:\\C# practice\\String Reverse\\String Reverse\\Program.cs*",
+              "RelativeToolTip": "String Reverse\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:57:38.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

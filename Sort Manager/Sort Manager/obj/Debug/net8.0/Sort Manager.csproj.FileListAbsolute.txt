@@ -1,0 +1,15 @@
+E:\C# practice\Sort Manager\Sort Manager\bin\Debug\net8.0\Sort Manager.exe
+E:\C# practice\Sort Manager\Sort Manager\bin\Debug\net8.0\Sort Manager.deps.json
+E:\C# practice\Sort Manager\Sort Manager\bin\Debug\net8.0\Sort Manager.runtimeconfig.json
+E:\C# practice\Sort Manager\Sort Manager\bin\Debug\net8.0\Sort Manager.dll
+E:\C# practice\Sort Manager\Sort Manager\bin\Debug\net8.0\Sort Manager.pdb
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.AssemblyInfoInputs.cache
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.AssemblyInfo.cs
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.csproj.CoreCompileInputs.cache
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.sourcelink.json
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.dll
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\refint\Sort Manager.dll
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.pdb
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\Sort Manager.genruntimeconfig.cache
+E:\C# practice\Sort Manager\Sort Manager\obj\Debug\net8.0\ref\Sort Manager.dll

@@ -1,0 +1,15 @@
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\bin\Debug\net8.0\Fibonnaci (Dynamic).exe
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\bin\Debug\net8.0\Fibonnaci (Dynamic).deps.json
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\bin\Debug\net8.0\Fibonnaci (Dynamic).runtimeconfig.json
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\bin\Debug\net8.0\Fibonnaci (Dynamic).dll
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\bin\Debug\net8.0\Fibonnaci (Dynamic).pdb
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).AssemblyInfoInputs.cache
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).AssemblyInfo.cs
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).csproj.CoreCompileInputs.cache
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).sourcelink.json
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).dll
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\refint\Fibonnaci (Dynamic).dll
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).pdb
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\Fibonnaci (Dynamic).genruntimeconfig.cache
+E:\C# practice\Fibonnaci (Dynamic)\Fibonnaci (Dynamic)\obj\Debug\net8.0\ref\Fibonnaci (Dynamic).dll

@@ -1,0 +1,15 @@
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\bin\Debug\net8.0\Second Largest Number in Array.exe
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\bin\Debug\net8.0\Second Largest Number in Array.deps.json
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\bin\Debug\net8.0\Second Largest Number in Array.runtimeconfig.json
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\bin\Debug\net8.0\Second Largest Number in Array.dll
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\bin\Debug\net8.0\Second Largest Number in Array.pdb
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.AssemblyInfoInputs.cache
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.AssemblyInfo.cs
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.csproj.CoreCompileInputs.cache
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.sourcelink.json
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.dll
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\refint\Second Largest Number in Array.dll
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.pdb
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\Second Largest Number in Array.genruntimeconfig.cache
+E:\C# practice\Second Largest Number in Array\Second Largest Number in Array\obj\Debug\net8.0\ref\Second Largest Number in Array.dll

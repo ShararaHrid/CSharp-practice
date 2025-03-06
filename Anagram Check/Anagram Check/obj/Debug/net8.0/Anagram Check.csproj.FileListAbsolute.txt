@@ -1,0 +1,15 @@
+E:\C# practice\Anagram Check\Anagram Check\bin\Debug\net8.0\Anagram Check.exe
+E:\C# practice\Anagram Check\Anagram Check\bin\Debug\net8.0\Anagram Check.deps.json
+E:\C# practice\Anagram Check\Anagram Check\bin\Debug\net8.0\Anagram Check.runtimeconfig.json
+E:\C# practice\Anagram Check\Anagram Check\bin\Debug\net8.0\Anagram Check.dll
+E:\C# practice\Anagram Check\Anagram Check\bin\Debug\net8.0\Anagram Check.pdb
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.AssemblyInfoInputs.cache
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.AssemblyInfo.cs
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.csproj.CoreCompileInputs.cache
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.sourcelink.json
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.dll
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\refint\Anagram Check.dll
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.pdb
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\Anagram Check.genruntimeconfig.cache
+E:\C# practice\Anagram Check\Anagram Check\obj\Debug\net8.0\ref\Anagram Check.dll
