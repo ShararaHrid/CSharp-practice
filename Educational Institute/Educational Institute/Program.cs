@@ -18,17 +18,20 @@ class Program
         Student student1 = new Student("Alice");
         Student student2 = new Student("Bob");
 
+        // Creating StudentService instance
+        StudentService studentService = new StudentService();
+
         // Enrolling students in courses
-        student1.AddCourse(course1);
-        student1.AddCourse(course2);
-        student2.AddCourse(course2);
-        student2.AddCourse(course3);
+        studentService.AddCourse(student1, course1);
+        studentService.AddCourse(student1, course2);
+        studentService.AddCourse(student2, course2);
+        studentService.AddCourse(student2, course3);
 
         // Updating course
-        student1.UpdateCourse(course1, course3);
+        studentService.UpdateCourse(student1, course1, course3);
 
         // Getting student information
-        student1.GetStudentInfo();
-        student2.GetStudentInfo();
+        studentService.GetStudentInfo(student1);
+        studentService.GetStudentInfo(student2);
     }
 }
