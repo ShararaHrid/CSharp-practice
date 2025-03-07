@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sort Heap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48fa4e0a084d9caa4eef68be4059883259923daf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sort Heap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sort Heap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

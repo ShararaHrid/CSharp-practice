@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rabin Karp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f27288766a41100b65f3e909c8147ff68ba8f4fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48fa4e0a084d9caa4eef68be4059883259923daf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rabin Karp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rabin Karp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

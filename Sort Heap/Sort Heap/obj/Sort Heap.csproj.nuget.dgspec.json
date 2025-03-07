@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Csharp practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj": {}
+    "E:\\C# practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj": {}
   },
   "projects": {
-    "E:\\Csharp practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj": {
+    "E:\\C# practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj",
+        "projectUniqueName": "E:\\C# practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj",
         "projectName": "Sort Heap",
-        "projectPath": "E:\\Csharp practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj",
+        "projectPath": "E:\\C# practice\\Sort Heap\\Sort Heap\\Sort Heap.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp practice\\Sort Heap\\Sort Heap\\obj\\",
+        "outputPath": "E:\\C# practice\\Sort Heap\\Sort Heap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Csharp practice\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj": {}
+    "E:\\C# practice\\Sort Bubble\\Bubble Sort\\Bubble Sort.csproj": {}
   },
   "projects": {
-    "E:\\Csharp practice\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj": {
+    "E:\\C# practice\\Sort Bubble\\Bubble Sort\\Bubble Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp practice\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj",
+        "projectUniqueName": "E:\\C# practice\\Sort Bubble\\Bubble Sort\\Bubble Sort.csproj",
         "projectName": "Bubble Sort",
-        "projectPath": "E:\\Csharp practice\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj",
+        "projectPath": "E:\\C# practice\\Sort Bubble\\Bubble Sort\\Bubble Sort.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp practice\\Bubble Sort\\Bubble Sort\\obj\\",
+        "outputPath": "E:\\C# practice\\Sort Bubble\\Bubble Sort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

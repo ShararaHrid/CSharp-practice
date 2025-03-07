@@ -2,7 +2,7 @@
 
 class RabinKarp
 {
-    static readonly int PRIME = 101; // A prime number for hashing
+    static readonly int PRIME = 101; 
 
     static int Search(string text, string pattern)
     {

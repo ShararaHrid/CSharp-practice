@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Csharp practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj": {}
+    "E:\\C# practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj": {}
   },
   "projects": {
-    "E:\\Csharp practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj": {
+    "E:\\C# practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj",
+        "projectUniqueName": "E:\\C# practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj",
         "projectName": "Sort Merge",
-        "projectPath": "E:\\Csharp practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj",
+        "projectPath": "E:\\C# practice\\Sort Merge\\Sort Merge\\Sort Merge.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp practice\\Sort Merge\\Sort Merge\\obj\\",
+        "outputPath": "E:\\C# practice\\Sort Merge\\Sort Merge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
