@@ -1,0 +1,15 @@
+E:\C# practice\Educational Institute\Educational Institute\bin\Debug\net8.0\Educational Institute.exe
+E:\C# practice\Educational Institute\Educational Institute\bin\Debug\net8.0\Educational Institute.deps.json
+E:\C# practice\Educational Institute\Educational Institute\bin\Debug\net8.0\Educational Institute.runtimeconfig.json
+E:\C# practice\Educational Institute\Educational Institute\bin\Debug\net8.0\Educational Institute.dll
+E:\C# practice\Educational Institute\Educational Institute\bin\Debug\net8.0\Educational Institute.pdb
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.AssemblyInfoInputs.cache
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.AssemblyInfo.cs
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.csproj.CoreCompileInputs.cache
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.sourcelink.json
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.dll
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\refint\Educational Institute.dll
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.pdb
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\Educational Institute.genruntimeconfig.cache
+E:\C# practice\Educational Institute\Educational Institute\obj\Debug\net8.0\ref\Educational Institute.dll

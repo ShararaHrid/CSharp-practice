@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Csharp practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj": {}
+    "E:\\C# practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj": {}
   },
   "projects": {
-    "E:\\Csharp practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj": {
+    "E:\\C# practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj",
+        "projectUniqueName": "E:\\C# practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj",
         "projectName": "Sort Selection",
-        "projectPath": "E:\\Csharp practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj",
+        "projectPath": "E:\\C# practice\\Sort Selection\\Sort Selection\\Sort Selection.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp practice\\Sort Selection\\Sort Selection\\obj\\",
+        "outputPath": "E:\\C# practice\\Sort Selection\\Sort Selection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

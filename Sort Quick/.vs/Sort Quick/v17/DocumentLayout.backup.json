@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Csharp practice\\Sort Quick\\",
+  "WorkspaceRootPath": "E:\\C# practice\\Sort Quick\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{098314DA-7F65-426A-BDE2-7C90DB015D8C}|Sort Quick\\Sort Quick.csproj|e:\\csharp practice\\sort quick\\sort quick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{098314DA-7F65-426A-BDE2-7C90DB015D8C}|Sort Quick\\Sort Quick.csproj|e:\\c# practice\\sort quick\\sort quick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{098314DA-7F65-426A-BDE2-7C90DB015D8C}|Sort Quick\\Sort Quick.csproj|solutionrelative:sort quick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Csharp practice\\Sort Quick\\Sort Quick\\Program.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Quick\\Sort Quick\\Program.cs",
               "RelativeDocumentMoniker": "Sort Quick\\Program.cs",
-              "ToolTip": "E:\\Csharp practice\\Sort Quick\\Sort Quick\\Program.cs",
+              "ToolTip": "E:\\C# practice\\Sort Quick\\Sort Quick\\Program.cs",
               "RelativeToolTip": "Sort Quick\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:20:07.029Z",
               "EditorCaption": ""

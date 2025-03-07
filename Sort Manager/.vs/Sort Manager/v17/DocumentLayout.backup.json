@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|e:\\c# practice\\sort manager\\sort manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|solutionrelative:sort manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|e:\\c# practice\\sort manager\\sort manager\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|solutionrelative:sort manager\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|e:\\c# practice\\sort manager\\sort manager\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|solutionrelative:sort manager\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|e:\\c# practice\\sort manager\\sort manager\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|solutionrelative:sort manager\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|e:\\c# practice\\sort manager\\sort manager\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|solutionrelative:sort manager\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|e:\\c# practice\\sort manager\\sort manager\\heapsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|solutionrelative:sort manager\\heapsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|e:\\c# practice\\sort manager\\sort manager\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20336D3-16F7-4144-8A80-33A744CD90D9}|Sort Manager\\Sort Manager.csproj|solutionrelative:sort manager\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Manager\\Sort Manager\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "Sort Manager\\SelectionSort.cs",
+              "ToolTip": "E:\\C# practice\\Sort Manager\\Sort Manager\\SelectionSort.cs",
+              "RelativeToolTip": "Sort Manager\\SelectionSort.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:54:01.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Manager\\Sort Manager\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Sort Manager\\QuickSort.cs",
+              "ToolTip": "E:\\C# practice\\Sort Manager\\Sort Manager\\QuickSort.cs",
+              "RelativeToolTip": "Sort Manager\\QuickSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:53:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Manager\\Sort Manager\\MergeSort.cs",
+              "RelativeDocumentMoniker": "Sort Manager\\MergeSort.cs",
+              "ToolTip": "E:\\C# practice\\Sort Manager\\Sort Manager\\MergeSort.cs",
+              "RelativeToolTip": "Sort Manager\\MergeSort.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:53:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Manager\\Sort Manager\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "Sort Manager\\InsertionSort.cs",
+              "ToolTip": "E:\\C# practice\\Sort Manager\\Sort Manager\\InsertionSort.cs",
+              "RelativeToolTip": "Sort Manager\\InsertionSort.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:53:09.747Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +100,35 @@
               "RelativeDocumentMoniker": "Sort Manager\\Program.cs",
               "ToolTip": "E:\\C# practice\\Sort Manager\\Sort Manager\\Program.cs",
               "RelativeToolTip": "Sort Manager\\Program.cs",
-              "ViewState": "AgIAADgAAABgZWZmZmYvwJgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T05:35:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeapSort.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Manager\\Sort Manager\\HeapSort.cs",
+              "RelativeDocumentMoniker": "Sort Manager\\HeapSort.cs",
+              "ToolTip": "E:\\C# practice\\Sort Manager\\Sort Manager\\HeapSort.cs",
+              "RelativeToolTip": "Sort Manager\\HeapSort.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvysAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:51:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Manager\\Sort Manager\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "Sort Manager\\BubbleSort.cs",
+              "ToolTip": "E:\\C# practice\\Sort Manager\\Sort Manager\\BubbleSort.cs",
+              "RelativeToolTip": "Sort Manager\\BubbleSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:42:12.39Z",
               "EditorCaption": ""
             }
           ]

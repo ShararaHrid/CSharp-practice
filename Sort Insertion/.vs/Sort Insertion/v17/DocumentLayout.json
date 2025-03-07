@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Csharp practice\\Sort Insertion\\",
+  "WorkspaceRootPath": "E:\\C# practice\\Sort Insertion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C04B2C58-246B-42F4-8293-C1DF020F6160}|Sort Insertion\\Sort Insertion.csproj|e:\\csharp practice\\sort insertion\\sort insertion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C04B2C58-246B-42F4-8293-C1DF020F6160}|Sort Insertion\\Sort Insertion.csproj|e:\\c# practice\\sort insertion\\sort insertion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C04B2C58-246B-42F4-8293-C1DF020F6160}|Sort Insertion\\Sort Insertion.csproj|solutionrelative:sort insertion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Csharp practice\\Sort Insertion\\Sort Insertion\\Program.cs",
+              "DocumentMoniker": "E:\\C# practice\\Sort Insertion\\Sort Insertion\\Program.cs",
               "RelativeDocumentMoniker": "Sort Insertion\\Program.cs",
-              "ToolTip": "E:\\Csharp practice\\Sort Insertion\\Sort Insertion\\Program.cs",
+              "ToolTip": "E:\\C# practice\\Sort Insertion\\Sort Insertion\\Program.cs",
               "RelativeToolTip": "Sort Insertion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:15:19.294Z",
               "EditorCaption": ""

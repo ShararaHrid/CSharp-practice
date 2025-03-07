@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Csharp practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj": {}
+    "E:\\C# practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj": {}
   },
   "projects": {
-    "E:\\Csharp practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj": {
+    "E:\\C# practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj",
+        "projectUniqueName": "E:\\C# practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj",
         "projectName": "Sort Quick",
-        "projectPath": "E:\\Csharp practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj",
+        "projectPath": "E:\\C# practice\\Sort Quick\\Sort Quick\\Sort Quick.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp practice\\Sort Quick\\Sort Quick\\obj\\",
+        "outputPath": "E:\\C# practice\\Sort Quick\\Sort Quick\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

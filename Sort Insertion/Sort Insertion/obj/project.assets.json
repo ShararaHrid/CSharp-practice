@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Csharp practice\\Sort Insertion\\Sort Insertion\\Sort Insertion.csproj",
+      "projectUniqueName": "E:\\C# practice\\Sort Insertion\\Sort Insertion\\Sort Insertion.csproj",
       "projectName": "Sort Insertion",
-      "projectPath": "E:\\Csharp practice\\Sort Insertion\\Sort Insertion\\Sort Insertion.csproj",
+      "projectPath": "E:\\C# practice\\Sort Insertion\\Sort Insertion\\Sort Insertion.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "E:\\Csharp practice\\Sort Insertion\\Sort Insertion\\obj\\",
+      "outputPath": "E:\\C# practice\\Sort Insertion\\Sort Insertion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
