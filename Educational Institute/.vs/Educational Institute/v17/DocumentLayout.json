@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{C03C2B7B-1EA6-4688-BF01-6336340637E3}|Educational Institute\\Educational Institute.csproj|solutionrelative:educational institute\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C03C2B7B-1EA6-4688-BF01-6336340637E3}|Educational Institute\\Educational Institute.csproj|e:\\c# practice\\educational institute\\educational institute\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03C2B7B-1EA6-4688-BF01-6336340637E3}|Educational Institute\\Educational Institute.csproj|solutionrelative:educational institute\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C03C2B7B-1EA6-4688-BF01-6336340637E3}|Educational Institute\\Educational Institute.csproj|e:\\c# practice\\educational institute\\educational institute\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C03C2B7B-1EA6-4688-BF01-6336340637E3}|Educational Institute\\Educational Institute.csproj|solutionrelative:educational institute\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03C2B7B-1EA6-4688-BF01-6336340637E3}|Educational Institute\\Educational Institute.csproj|e:\\c# practice\\educational institute\\educational institute\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03C2B7B-1EA6-4688-BF01-6336340637E3}|Educational Institute\\Educational Institute.csproj|solutionrelative:educational institute\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,13 +34,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Teacher.cs",
               "DocumentMoniker": "E:\\C# practice\\Educational Institute\\Educational Institute\\Teacher.cs",
               "RelativeDocumentMoniker": "Educational Institute\\Teacher.cs",
               "ToolTip": "E:\\C# practice\\Educational Institute\\Educational Institute\\Teacher.cs",
               "RelativeToolTip": "Educational Institute\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T08:48:20.471Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Educational Institute\\Course.cs",
               "ToolTip": "E:\\C# practice\\Educational Institute\\Educational Institute\\Course.cs",
               "RelativeToolTip": "Educational Institute\\Course.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T08:48:04.946Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "Educational Institute\\Program.cs",
               "ToolTip": "E:\\C# practice\\Educational Institute\\Educational Institute\\Program.cs",
               "RelativeToolTip": "Educational Institute\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T08:47:22.672Z",
               "EditorCaption": ""
@@ -79,20 +79,20 @@
               "RelativeDocumentMoniker": "Educational Institute\\StudentService.cs",
               "ToolTip": "E:\\C# practice\\Educational Institute\\Educational Institute\\StudentService.cs",
               "RelativeToolTip": "Educational Institute\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T15:18:29.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\C# practice\\Educational Institute\\Educational Institute\\Student.cs",
               "RelativeDocumentMoniker": "Educational Institute\\Student.cs",
               "ToolTip": "E:\\C# practice\\Educational Institute\\Educational Institute\\Student.cs",
               "RelativeToolTip": "Educational Institute\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T08:47:48.726Z",
               "EditorCaption": ""
